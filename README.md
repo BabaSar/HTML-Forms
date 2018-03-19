@@ -11,3 +11,8 @@ HTML Forms
     2) GET will create a query string appended to the URL i.e data is sent inside the URL.
 
 -The 'name' attribute in input elements are used for server-side data processing.
+
+-A textarea is not self-closing like an input element, so it needs a closing tag.
+
+BUTTON
+-we create a button with type="submit". But there are two other types; "reset" and "button"
