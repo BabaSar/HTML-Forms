@@ -26,3 +26,7 @@ USING LABELS
 FIELDSETS AND LEGENDS
 -certain inputs (form controls) belong together and can be logically grouped. This is what fieldsets are used for. They group them together, but also add some spacing to help make this more visually obvious.
 -We can then label these fieldsets using legends.
+
+SELECT MENU
+-select elements have can have many options within them, with pre-defined values.
+-you can group these options into categories using optgroup labels.
