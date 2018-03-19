@@ -9,3 +9,5 @@ HTML Forms
 -The Method could be POST or GET.  
     1) POST just posts the data to the server. You don't see anything in your URL when this happens.
     2) GET will create a query string appended to the URL i.e data is sent inside the URL.
+
+-The 'name' attribute in input elements are used for server-side data processing.
