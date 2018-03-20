@@ -47,7 +47,18 @@
                         <option value="fullstack_developer">Fullstack Developer</option>
                     </optgroup>    
                 </select>
-            </fieldset>
+
+                <label>Interests:</label>
+                <!-- theres no 'for' attribute for this label as it labels a group as apposed to a specific choice
+                 -->
+                <input type="checkbox" id="development" value="interest_development" name="user_interest"> 
+            
+            <label for="development" class="light">Development</label><br>
+            <input type="checkbox" id="design" value="interest_design" name="user_interest"> 
+            
+            <label for="design" class="light">Design</label>
+
+        </fieldset>
 
             <button type="submit">Sign Up</button>
         </form>

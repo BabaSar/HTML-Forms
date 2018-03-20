@@ -30,3 +30,6 @@ FIELDSETS AND LEGENDS
 SELECT MENU
 -select elements have can have many options within them, with pre-defined values.
 -you can group these options into categories using optgroup labels.
+
+CHECKBOXES
+-Allows you to select many at once. 
